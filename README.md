@@ -85,7 +85,7 @@ pip install -r requirements.txt
 ```
 3. **Run the Jupyter Notebook**:
 ```bash
-jupyter notebook```
+jupyter notebook
 ```
 Open the notebook in your browser and execute the code cells to start playing.
 
