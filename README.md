@@ -76,7 +76,7 @@ These dependencies are specified in the requirements.txt file.
 Follow these steps to install the necessary requirements and run the project:
 1. **Clone the repository** (or download the Jupyter Notebook):
 ```bash
-git clone <your-repository-link>
+git clone <https://github.com/Adelzare1999/tic-tac-toe-game-using-DFS.git>
 cd <your-repository-folder>
 ```
 2. **Install the required libraries** using the requirements.txt file:
