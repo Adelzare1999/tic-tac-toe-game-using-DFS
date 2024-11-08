@@ -21,11 +21,11 @@ This Jupyter Notebook is an implementation of a Tic Tac Toe game where the playe
 This project is a Jupyter Notebook implementation of a Tic Tac Toe game where the player competes against an AI opponent. The AI uses a depth-first search (DFS) algorithm to choose the optimal move at each turn. This exercise was developed as part of my Artificial Intelligence Lab course at university.
 
 ## Features
-- Human vs. AI gameplay using Jupyter Notebook.
-- AI leverages depth-first search for optimal decision-making.
-- Graphical representation of the board using the Pillow library.
-- Real-time tracking of elapsed time during gameplay.
-- Saves the entire game sequence as a GIF file.
+-  Human vs. AI gameplay using Jupyter Notebook.
+-  AI leverages depth-first search for optimal decision-making.
+-  Graphical representation of the board using the Pillow library.
+-  Real-time tracking of elapsed time during gameplay.
+-  Saves the entire game sequence as a GIF file.
 
 ## How It Works
 ### 1. Game Initialization
