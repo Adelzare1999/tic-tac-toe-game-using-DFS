@@ -31,6 +31,6 @@ This project is a Jupyter Notebook implementation of a Tic Tac Toe game where th
 ### 1. Game Initialization
 - [The game board is represented as a 3x3 NumPy matrix.]
 - [Constants:]
- - [PLAYER = 'X': Represents the human player.]
- - [AI = 'O': Represents the AI opponent.]
- - [EMPTY = ' ': Represents empty cells on the board.]
+  - [PLAYER = 'X': Represents the human player.]
+  - [AI = 'O': Represents the AI opponent.]
+  - [EMPTY = ' ': Represents empty cells on the board.]
